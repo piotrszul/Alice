@@ -24,6 +24,5 @@ Alice attends the trial.
 # Chapter 6: New adventures of Alice
 Alice meets Batman.
 
-
 THE END
 
