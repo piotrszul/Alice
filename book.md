@@ -20,5 +20,8 @@ Alice listens to the sad story of Mock Tutrle
 
 Alice attends the trials.
 
+# Chapter 6: New adventures of Alice
+Alice meets Batman.
+
 THE END
 
