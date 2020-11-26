@@ -23,7 +23,3 @@ Alice attends the trial.
 
 THE END
 
-The Ending.
-
-
-
